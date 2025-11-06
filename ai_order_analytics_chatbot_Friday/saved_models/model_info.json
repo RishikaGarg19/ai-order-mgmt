@@ -1,0 +1,13 @@
+{
+  "data_signature": "65eb81b6f54c8db9",
+  "timestamp": 1748800754.621161,
+  "model_version": "1.0_original_cached",
+  "data_stats": {
+    "rows": 60157,
+    "columns": 107
+  },
+  "cache_info": {
+    "total_orders": 7411,
+    "has_cache": true
+  }
+}
