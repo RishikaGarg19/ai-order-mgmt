@@ -54,3 +54,6 @@ desktop.ini
 *.mp4
 *.zip
 ai_order_analytics_chatbot_Friday/saved_models/ai_models.pkl
+
+# Presentation files
+*.pptx
